@@ -23,3 +23,26 @@
 - [x] Listagem de casos; 
 - [x] Cadastro de um novo caso;
 - [x] Conectando aplicação à API;  
+
+## Dia 4
+
+- [x] Executando projeto; 
+- [x] Diferenças do React Js e React Native; 
+- [x] Estrutura de pastas; 
+- [x] Ícone e splash screen ; 
+- [x] Configurar navegação;
+- [x] Página de casos; 
+- [x] Detalhes do caso; 
+- [x] Abrindo WhatsApp & E-mail;
+- [x] Conexão com a API;
+
+## Dia 5
+
+- [x] Adicionando validação; 
+- [x] Adicionando testes; 
+
+
+
+
+
+
